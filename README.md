@@ -1,3 +1,4 @@
 # Tela-Inicial-do-Instagram
 Tela inicial do Instagram em Html e Css
-![image](https://user-images.githubusercontent.com/92094816/137002784-e0e41a33-44fa-448d-af87-aa62ae163547.png)
+![Print de tela](https://user-images.githubusercontent.com/92094816/137003010-4a95d0db-ea46-44ea-9dde-0b614164cafb.png)
+
